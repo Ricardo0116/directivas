@@ -28,4 +28,3 @@ Route::get('acerca-de', function () {
 Route::get('contactanos', function () {
     return view('contactos');
 });
-
